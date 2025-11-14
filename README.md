@@ -37,7 +37,7 @@ Learning Objective:
 Dive into the world of tools, understanding how AI agents can "take action" by leveraging external functionalities and APIs, and explore the ease of discovering and using tools offered by the Model Context Protocol (MCP).
 
 Kaggle Notebooks:
-1. Explore new ways to add tools to extend what your agents can do:
+1. Explore new ways to add tools to extend what your agents can do: https://www.kaggle.com/code/juliasuzuki/day-2-1-adding-agent-tools?scriptVersionId=277881306
 2. Explore best practices for tools, including using MCP and long-running operations: 
 
 -----
