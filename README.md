@@ -14,7 +14,7 @@ I completed the 5-Day **AI Agents** Intensive course offered by Google + Kaggle 
 Resources:
 - About the course: [Link](https://rsvp.withgoogle.com/events/google-ai-agents-intensive_2025?utm_medium=email&utm_source=gamma&utm_campaign=learn-aiagents-intensive-2025%3D)
 - YouTube Playlist: [Link](https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE)
-- About Capstone Project: [Link](https://www.kaggle.com/competitions/agents-intensive-capstone-project0
+- About Capstone Project: [Link](https://www.kaggle.com/competitions/agents-intensive-capstone-project)
 - Google Whitepapers: [Link](https://drive.google.com/drive/u/0/folders/1HS88mOMZxfUEx1MkzbfIzFcNxNY5ybAt)
 - My Medium Post: [Link](https://medium.com/@julia.f.suzuki/5-day-ai-agents-intensive-course-with-google-40bc57f4c59a?postPublishedType=initial)
 
