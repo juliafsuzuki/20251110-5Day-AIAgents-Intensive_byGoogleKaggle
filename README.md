@@ -12,6 +12,8 @@ I completed the 5-Day **AI Agents** Intensive course offered by Google + Kaggle 
 
 **#2. Kaggle notebooks (links below); I've updated the original tutorial notebooks by experimenting with my own data.**
 
+-----
+
 Resources:
 - About the course: [Link](https://rsvp.withgoogle.com/events/google-ai-agents-intensive_2025?utm_medium=email&utm_source=gamma&utm_campaign=learn-aiagents-intensive-2025%3D)
 - YouTube Playlist: [Link](https://www.youtube.com/playlist?list=PLqFaTIg4myu9r7uRoNfbJhHUbLp-1t1YE)
