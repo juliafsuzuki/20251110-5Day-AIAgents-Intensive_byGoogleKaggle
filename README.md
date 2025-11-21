@@ -6,10 +6,10 @@
 
 I completed the 5-Day **AI Agents** Intensive course offered by Google + Kaggle and documented my learning here in this GitHub repository. 
 
-#1. AI Agents Intensive Course Curriculum: [Link](https://www.kaggle.com/learn-guide/5-day-agents)
+**#1. AI Agents Intensive Course Curriculum: [Link](https://www.kaggle.com/learn-guide/5-day-agents)**
 <img width="1621" height="540" alt="image" src="https://github.com/user-attachments/assets/0e49aff0-9ad1-4df3-965e-2888a00fa41d" />
 
-#2. Kaggle notebooks (links below); I've updated the original tutorial notebooks by experimenting with my own data.
+**#2. Kaggle notebooks (links below); I've updated the original tutorial notebooks by experimenting with my own data.**
 
 Resources:
 - About the course: [Link](https://rsvp.withgoogle.com/events/google-ai-agents-intensive_2025?utm_medium=email&utm_source=gamma&utm_campaign=learn-aiagents-intensive-2025%3D)
