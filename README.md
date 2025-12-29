@@ -5,7 +5,6 @@
 👋 Hello - 
 
 I completed the 5-Day **AI Agents** Intensive course offered by Google + Kaggle and documented my learning here in this GitHub repository. 
-
 .
 .
 
