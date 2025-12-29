@@ -8,6 +8,8 @@ I completed the 5-Day **AI Agents** Intensive course offered by Google + Kaggle 
 
 <img width="1621" height="540" alt="image" src="https://github.com/user-attachments/assets/0e49aff0-9ad1-4df3-965e-2888a00fa41d" />
 
+**My Kaggle notebooks (links below); I've updated the original tutorial notebooks by experimenting with my own data.**
+
 -----
 
 Resources:
@@ -18,8 +20,6 @@ Resources:
 - My Medium Post: [Link](https://medium.com/@julia.f.suzuki/5-day-ai-agents-intensive-course-with-google-40bc57f4c59a?postPublishedType=initial)
 
 -----
-
-**My Kaggle notebooks (links below); I've updated the original tutorial notebooks by experimenting with my own data.**
 
 **Day 1**: Introduction to Agents & Agentic Architecture
 
@@ -81,4 +81,5 @@ Kaggle Notebooks:
 **Capstone Project** 
 
 GitHub Repo: https://github.com/juliafsuzuki/DanceSport-Training-Assistant/tree/main
+
 Medidum Post: <to be added in the near future> 
