@@ -8,6 +8,7 @@ I completed the 5-Day **AI Agents** Intensive course offered by Google + Kaggle 
 
 .
 .
+
 <img width="1621" height="540" alt="image" src="https://github.com/user-attachments/assets/0e49aff0-9ad1-4df3-965e-2888a00fa41d" />
 .
 .
